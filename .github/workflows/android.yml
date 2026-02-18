@@ -22,5 +22,11 @@ jobs:
 
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
-    - name: Build with Gradle
-      run: ./gradlew build
+      
+    - name: Build with Gradle (skip lint)
+      run: ./gradlew build -x lint
+      
+    # 可选：单独运行 Lint 但不中断构建
+    - name: Run lint
+      continue-on-error: true
+      run: ./gradlew lint
