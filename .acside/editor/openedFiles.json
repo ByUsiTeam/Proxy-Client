@@ -1,20 +1,20 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/欢乐的北洋/GiteeProject/Proxy/proxy-android-client/app/build.gradle",
+      "file": "/storage/emulated/0/欢乐的北洋/GiteeProject/Proxy/proxy-android-client/app/src/main/java/miao/byusi/proxy_client/MainActivity.java",
       "selection": {
         "end": {
-          "column": 24,
-          "index": 317,
-          "line": 13
+          "column": 1,
+          "index": 29549,
+          "line": 831
         },
         "start": {
-          "column": 24,
-          "index": 317,
-          "line": 13
+          "column": 1,
+          "index": 29549,
+          "line": 831
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/欢乐的北洋/GiteeProject/Proxy/proxy-android-client/app/build.gradle"
+  "selectedFile": "/storage/emulated/0/欢乐的北洋/GiteeProject/Proxy/proxy-android-client/app/src/main/java/miao/byusi/proxy_client/MainActivity.java"
 }
