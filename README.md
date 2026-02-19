@@ -68,7 +68,7 @@ proxy-client/
 
 ## 依赖库
 
-- 腾讯X5内核WebView (MTDataFilesProvider-v1.0.0.aar)
+- MT管理器文件提供器 (MTDataFilesProvider-v1.0.0.aar)
 - Android系统WebView (android.aar)
 
 ## 使用说明
